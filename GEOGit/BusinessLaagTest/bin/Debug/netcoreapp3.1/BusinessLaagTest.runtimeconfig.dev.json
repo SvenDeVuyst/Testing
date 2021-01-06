@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mkell\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mkell\\.nuget\\packages"
+    ]
+  }
+}

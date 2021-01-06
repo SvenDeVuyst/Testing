@@ -1,0 +1,10 @@
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\bin\Debug\netcoreapp3.1\BusinessLaag.deps.json
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\bin\Debug\netcoreapp3.1\BusinessLaag.dll
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\obj\Debug\netcoreapp3.1\BusinessLaag.csprojAssemblyReference.cache
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\obj\Debug\netcoreapp3.1\BusinessLaag.AssemblyInfoInputs.cache
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\obj\Debug\netcoreapp3.1\BusinessLaag.AssemblyInfo.cs
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\bin\Debug\netcoreapp3.1\BusinessLaag.runtimeconfig.json
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\bin\Debug\netcoreapp3.1\BusinessLaag.runtimeconfig.dev.json
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\bin\Debug\netcoreapp3.1\BusinessLaag.pdb
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\obj\Debug\netcoreapp3.1\BusinessLaag.dll
+C:\Users\mkell\Desktop\GEOLander\GEOService\BusinessLaag\obj\Debug\netcoreapp3.1\BusinessLaag.pdb

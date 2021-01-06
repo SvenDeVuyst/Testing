@@ -1,0 +1,13 @@
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\bin\Debug\netcoreapp3.1\DataLaag.deps.json
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\bin\Debug\netcoreapp3.1\DataLaag.dll
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\obj\Debug\netcoreapp3.1\DataLaag.csprojAssemblyReference.cache
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\obj\Debug\netcoreapp3.1\DataLaag.AssemblyInfoInputs.cache
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\obj\Debug\netcoreapp3.1\DataLaag.AssemblyInfo.cs
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\bin\Debug\netcoreapp3.1\DataLaag.runtimeconfig.json
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\bin\Debug\netcoreapp3.1\DataLaag.runtimeconfig.dev.json
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\bin\Debug\netcoreapp3.1\DataLaag.pdb
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\bin\Debug\netcoreapp3.1\BusinessLaag.dll
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\bin\Debug\netcoreapp3.1\BusinessLaag.pdb
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\obj\Debug\netcoreapp3.1\DataLaag.csproj.CopyComplete
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\obj\Debug\netcoreapp3.1\DataLaag.dll
+C:\Users\mkell\Desktop\GEOLander\GEOService\DataLaag\obj\Debug\netcoreapp3.1\DataLaag.pdb
